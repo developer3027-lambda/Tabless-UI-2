@@ -9,7 +9,7 @@ People often have a million tabs up and lose track of what they were doing. This
 
  ### MVP Feature Breakdown:
 
- ####Login/ Sign-up Pages: 
+ #### Login/ Sign-up Pages: 
  A mentor can login into an existing account with Username, and Password and a Phone Number or a user can sign up for an account with a username, and password and phone number. An e-mail address should be connected with an account creation.
 
  #### Navigation:
@@ -34,9 +34,9 @@ People often have a million tabs up and lose track of what they were doing. This
 
 ## Project Team Information:
 #### Project Admin
- Project TL - :crown: @brandon-pampuch
- Class TL - :briefcase: @tthompson082
+    * Project TL - :crown: @brandon-pampuch
+    * Class TL - :briefcase: @tthompson082
 
 #### UI Team
- Project Team Member - :octocat: @uziasr
- project Team Member - :octocat: @Jorden Arthey
+    * Project Team Member - :octocat: @uziasr
+    * project Team Member - :octocat: @Jorden Arthey
