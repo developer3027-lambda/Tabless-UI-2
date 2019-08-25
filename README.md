@@ -3,6 +3,7 @@ First build week project of Lambda School. This project is an web app that allow
 
 ## resources
 You can find my [Trello](https://trello.com/b/5ff66SLs/tables-thursday) here.
+You can find my [Figma](https://www.figma.com/file/EiUOl5og5UfQMkzBm80ABm/Tabless-Thursday) concept here.
 
 #### Pitch: 
 People often have a million tabs up and lose track of what they were doing. This website lets you organize them in to-do lists and make a note of why it was important. Makes it easy to pick up where you left off.
@@ -43,4 +44,5 @@ People often have a million tabs up and lose track of what they were doing. This
 
 ### August 24 2019
 **Logo Concept** - I created a logo concept and will use it in the project until or unless I am provided with another. I created sizes 128, 48, 32, 24, and 16. png format. svg.
+
 **Chrome Extension** - Mocked up a chrome extension. For local testing, move extension folder to isolated location. Chrome settings (customize) down to *'more tools'* then *'extensions'*. Make sure *'Developer Mode'* is turned on. Click *'load unpacked'* and direct to your isolated extension folder.
