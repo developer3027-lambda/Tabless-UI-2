@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tabless Thursday</title>
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
+    <style>
+    html, body {
+        font-family:'Raleway';
+        font-size: 14px;
+        margin: 0;
+        min-height: 150px;
+        padding: 5px;
+        width: 325px;
+    }
+    h1 {
+        font-size: 26px;
+        font-weight: 700;
+        margin: 0;
+        color: #4DAA88;
+    }
+    a:link, a:visited {
+        color:black;
+        outline: 0;
+        text-decoration: none;
+    }
+    img {
+        width: 60px;
+    }
+    .modal_header {
+        align-items: center;
+        border-bottom: 0.5px solid lightslategrey;
+    }
+    .modal_content {
+        padding: 0 22px;
+        font-size: 16px;
+        color: #4DAA88;
+    }
+    .modal_icons {
+        border-top: 0.5 solid grey;
+        height: 50px;
+        width:100%;
+    }
+    .logo{
+        padding:5px;
+    }
+    .logo_icon{
+        vertical-align:text-bottom;
+        margin-right:  18px;
+    }
+    .flex_wrapper{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        padding: 10px 22px;
+    }
+    .flex{
+        opacity:1;
+        transition: opacity 0.2s ease-in-out;
+        width:120px;
+    }
+    .flex:hover{
+        opacity: 0.3;
+    }
+    .flex .lnr {
+        font-size: 30px;
+        color: #4DAA88;
+    }
+    </style>
+</head>
+<body>
+    <div class="modal_header">
+        <h1 class="logo">
+            <img src="../images/TT_128.png" alt="Tabless Thursday" class="logo_icon">Tabless Thursday
+            <span class="version"(1.0.0)></span>
+        </h1>
+    </div>
+    <div class="modal_content">
+        <p>Organize your tab groups / ToDo List</p>
+    </div>
+    <div class="modal_icons">
+        <div class="flex_wrapper">
+            <div class="flex">
+                <a href="main.html" target="_blank">
+                    <span class="lnr lnr-earth"></span> 
+                </a>
+            </div>
+            <div class="flex">
+                <a href="todo.html" target="_blank">
+                    <span class="lnr lnr-pushpin"></span> 
+                </a>                                    
+            </div>
+            <div class="flex">
+                <a href="about.html" target="_blank">
+                    <span class="lnr lnr-coffee-cup"></span> 
+                </a>
+            </div>
+            <div class="flex">
+                <a href="profile.html" target="_blank">
+                    <span class="lnr lnr-user"></span> 
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script src="extension.js"></script>
+</body>
+</html>

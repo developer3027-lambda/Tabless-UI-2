@@ -1,0 +1,12 @@
+{
+"manifest_version": 2,
+"name": "Tabless Thursday",
+"description": "Tabless Extension",
+"version": "1.0.0",
+"icons": {"128":"TT_128.png"},
+"browser_action": {
+    "default_icon": "TT_16.png",
+    "default_popup": "extension.html"
+},
+"permissions": ["activeTab"]
+}

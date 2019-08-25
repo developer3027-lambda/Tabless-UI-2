@@ -33,10 +33,10 @@ People often have a million tabs up and lose track of what they were doing. This
  *A second user can login and see friends' saved tabs.*
 
 ## Project Team Information:
-#### Project Admin
-    * Project TL - :crown: @brandon-pampuch
-    * Class TL - :briefcase: @tthompson082
+#### :crown: Project Admin
+    * Project TL -  @brandon-pampuch
+    * Class TL -  @tthompson082
 
-#### UI Team
-    * Project Team Member - :octocat: @uziasr
-    * project Team Member - :octocat: @Jorden Arthey
+#### :octocat: UI Team
+    * Project Team Member -  @uziasr
+    * project Team Member -  @Jorden Arthey
