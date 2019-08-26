@@ -6,6 +6,10 @@ You can find my [Trello](https://trello.com/b/5ff66SLs/tables-thursday) here.
 
 You can find my [Figma](https://www.figma.com/file/EiUOl5og5UfQMkzBm80ABm/Tabless-Thursday) concept here.
 
+You can view the [color styles](https://docs.google.com/document/d/11QJGjOF75NNsq9wVon3yqbIcr3I9b8CG3oHkyR548do/edit?usp=sharing) here.
+
+You can find the Team info [form](https://docs.google.com/forms/d/e/1FAIpQLSeMnohz-I7f5QXd-Kfo-E7OTKxS_Q9bAxrnXHKzWfIodYWt2A/viewform?usp=sf_link) for the About page here.
+
 #### Pitch: 
 People often have a million tabs up and lose track of what they were doing. This website lets you organize them in to-do lists and make a note of why it was important. Makes it easy to pick up where you left off.
 
@@ -49,4 +53,8 @@ People often have a million tabs up and lose track of what they were doing. This
 **Chrome Extension** - Mocked up a chrome extension. For local testing, move extension folder to isolated location. Chrome settings (customize) down to *'more tools'* then *'extensions'*. Make sure *'Developer Mode'* is turned on. Click *'load unpacked'* and direct to your isolated extension folder.
 
 ### August 25 2019
-**Working on site layout on Figma.
+**Figma** - Working on site layout on Figma.
+
+### August 26 2019
+**Color Style** - Layed out 2 color pallette for project.
+**Team Info Form** - Created google form to gather team Info for about page cards.
